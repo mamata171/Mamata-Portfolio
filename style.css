@@ -471,7 +471,7 @@ form button:hover{
 }
 
 @media screen and (max-width:450px) {
-    .home-icons a{
+    .icons-footer a{
         display: none;
      }
 
