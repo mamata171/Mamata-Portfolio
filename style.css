@@ -480,3 +480,17 @@ form button:hover{
         font-size: 15px;
      }
 }
+
+@media screen and (max-width:459px) {
+    #heading1{
+        font-size: 25px;
+    }
+
+    #heading2{
+        font-size: 25px;
+    }
+
+  
+
+
+}
